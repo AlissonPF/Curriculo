@@ -1,0 +1,18 @@
+.formacao {
+  font-size: 32px;
+}
+
+.bloquinho h2 {
+  font-size: 32px;
+  grid-column: 1 / -1;
+}
+
+.status {
+  font-size: 20px;
+}
+
+.bloquinho span {
+  font-size: 16px;
+  font-weight: bold;
+}
+

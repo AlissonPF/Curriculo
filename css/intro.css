@@ -1,0 +1,23 @@
+
+
+.foto {
+  justify-self: end;
+}
+
+.introducao {
+  display: grid;
+  align-content: center;
+  gap: 20px;
+}
+
+.dev {
+  font-size: 20px;
+}
+
+.nome {
+  font-size: 36px;
+}
+
+.parag {
+  font-size: 20px;
+}
